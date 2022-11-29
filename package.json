@@ -1,5 +1,8 @@
 {
-  "name": "code",
+  "name": "ta-movies-list",
+  "description": "TA-PPB",
+  "author": "Fitra",
+  "license": "UNLICENSED",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
